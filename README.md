@@ -38,7 +38,7 @@
 
 ### 1. 获取智谱 AI API 密钥
 
-1. 访问 [智谱 AI 官网](https://open.bigmodel.cn/)
+1. 访问 [智谱 AI 官网](https://www.bigmodel.cn/claude-code?ic=19ZL5KZU1F)
 2. 注册并登录账号
 3. 在控制台中获取 API 密钥
 
