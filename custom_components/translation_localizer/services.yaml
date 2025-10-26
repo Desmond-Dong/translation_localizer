@@ -1,0 +1,4 @@
+translate_components:
+  name: Translate components
+  description: Translate all components that have English translations but missing Chinese translations
+  fields: {}

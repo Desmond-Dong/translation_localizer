@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Translation Localizer",
+        "description": "欢迎使用翻译本地化工具！请输入您的智谱AI API密钥来开始自动翻译Home Assistant组件。\n\n您可以在 [智谱AI开放平台](https://www.bigmodel.cn/invite?icode=NWiYEUi2tleEV8cplkb1Z%2BZLO2QH3C0EBTSr%2BArzMw4%3D/) 获取免费API密钥。",
+        "data": {
+          "zhipu_api_key": "智谱AI API密钥",
+          "custom_components_path": "自定义组件路径"
+        }
+      }
+    },
+    "error": {
+      "missing_api_key": "请输入智谱AI API密钥",
+      "invalid_api_key": "API密钥格式不正确，请检查后重试"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Translation Localizer 设置",
+        "description": "更新翻译本地化工具的配置。",
+        "data": {
+          "zhipu_api_key": "智谱AI API密钥",
+          "custom_components_path": "自定义组件路径"
+        }
+      }
+    }
+  }
+}

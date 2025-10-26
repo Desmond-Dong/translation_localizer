@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Translation Localizer",
+        "description": "Welcome to Translation Localizer! Please enter your Zhipu AI API key to start automatically translating Home Assistant components.\n\nYou can get a free API key from [Zhipu AI Open Platform](https://open.bigmodel.cn/).",
+        "data": {
+          "zhipu_api_key": "Zhipu AI API Key",
+          "custom_components_path": "Custom Components Path"
+        }
+      }
+    },
+    "error": {
+      "missing_api_key": "Please enter your Zhipu AI API key",
+      "invalid_api_key": "API key format is incorrect, please check and try again"
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Translation Localizer Settings",
+        "description": "Update the Translation Localizer configuration.",
+        "data": {
+          "zhipu_api_key": "Zhipu AI API Key",
+          "custom_components_path": "Custom Components Path"
+        }
+      }
+    }
+  }
+}
