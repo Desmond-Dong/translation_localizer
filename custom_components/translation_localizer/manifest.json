@@ -1,12 +1,11 @@
 {
   "domain": "translation_localizer",
   "name": "Translation Localizer",
-  "version": "1.0.0",
-  "documentation": "https://github.com/your-username/translation-localizer",
-  "issue_tracker": "https://github.com/your-username/translation-localizer/issues",
+  "version": "1.0.1",
+  "documentation": "https://github.com/Desmond-Dong/translation_localizer",
+  "issue_tracker": "https://github.com/Desmond-Dong/translation_localizer/issues",
   "dependencies": [],
-  "codeowners": ["@your-username"],
+  "codeowners": ["@Desmond-Dong"],
   "requirements": ["requests>=2.25.0"],
-  "config_flow": true,
-  "version": "1.0.0"
+  "config_flow": true
 }
